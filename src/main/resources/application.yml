@@ -1,0 +1,7 @@
+spring:
+  r2dbc:
+    url: r2dbc:mysql://tope-qa-all-bj.rwlb.rds.aliyuncs.com/caesar?useUnicode=true&characterEncoding=utf8&autoReconnect=true&failOverReadOnly=false&useInformationSchema=true&tinyInt1isBit=true&nullCatalogMeansCurrent=true&serverTimezone=UTC&allowMultiQueries=true&serverTimezone=GMT%2B8
+    username: zzjiagou_new_rw
+    password: KrWvP6Zu4t34B4d4qruX
+server.port: 8899
+server.netty.connection-timeout: 6000
